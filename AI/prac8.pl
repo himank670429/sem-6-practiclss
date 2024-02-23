@@ -1,0 +1,1 @@
+memb(X, [_ | Tail]) :- memb(X, Tail).
